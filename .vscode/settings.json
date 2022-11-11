@@ -1,7 +1,10 @@
 {
     
     "C_Cpp.default.includePath": [
-        "${workspaceFolder}/src",
+        "${workspaceFolder}/Headers",
         "${VULKAN_SDK}/Include"
-    ]
+    ],
+    "files.associations": {
+        "iostream": "cpp"
+    }
 }

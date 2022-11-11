@@ -23,6 +23,7 @@ int main() {
     if(result == VK_SUCCESS)
     {
         cout<< "Instance Created Successfully"<< endl;
+        cout<< "GoodBye"<< endl;
     }
 
     return 0;
